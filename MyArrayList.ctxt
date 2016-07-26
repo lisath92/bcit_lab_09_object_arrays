@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyArrayList()
+comment0.text=\r\n\ Constructor\ -\ start\ with\ an\ empty\ array\r\n
+comment1.params=toAdd
+comment1.target=boolean\ add(java.lang.Object)
+comment1.text=\r\n\ Adds\ a\ new\ element\ at\ the\ end\ of\ the\ list.\r\n\ @param\ the\ object\ to\ add\r\n\ @return\ true\ if\ element\ successfully\ added,\ false\ if\ parameter\ is\ null\r\n
+comment2.params=index
+comment2.target=java.lang.Object\ get(int)
+comment2.text=\r\n\ Gets\ the\ object\ at\ the\ specified\ index.\r\n\ @param\ index\ value\ of\ object\ to\ get\r\n\ @return\ object\ at\ that\ index\r\n
+comment3.params=index
+comment3.target=java.lang.Object\ remove(int)
+comment3.text=\r\n\ Removes\ specified\ object\ from\ list.\r\n\ @param\ index\ value\ of\ object\ to\ remove\r\n\ @return\ the\ object\ removed\r\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\r\n\ Returns\ size\ of\ the\ list\r\n\ @return\ number\ of\ elements\ in\ the\ list\r\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\r\n\ @return\ true\ if\ the\ list\ has\ no\ elements,\ false\ otherwise\r\n
+numComments=6
